@@ -1,0 +1,9 @@
+{
+  "name": "org.shadow-grove.real-weather-and-time-events",
+  "displayName": "Real Weather and Time Events",
+  "version": "1.0.0",
+  "documentationUrl": "https://wiki.shadow-grove.org/en/real-weather-and-time-events",
+  "changelogUrl": "https://github.com/ShadowGroveGames/Real-Weather-and-Time-Events/releases",
+  "licensesUrl": "https://github.com/ShadowGroveGames/Real-Weather-and-Time-Events/blob/main/LICENSE",
+  "description": "Real Weather and Time Events implements Unity Events into your game to react to real-time weather information. It also provides time information about the selected area!"
+}
