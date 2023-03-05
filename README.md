@@ -9,12 +9,14 @@ There are 3 ways to install this plugin:
  - "org.shadow-grove.real-weather-and-time-events": "https://github.com/yasirkula/UnityNativeGallery.git",
 
 #### Setup the Asset only 3 steps!
-**1.** Create a the [OpenWeatherMap Account](https://home.openweathermap.org/users/sign_up "OpenWeatherMap Account")
-**2.** Open [My API keys Section](https://home.openweathermap.org/api_keys "My API keys Section")
-**3.** Copy the **Key** and write it into **Real Weather and Time Events Prefab**
+1. Create a the [OpenWeatherMap Account](https://home.openweathermap.org/users/sign_up "OpenWeatherMap Account")
+1. Open [My API keys Section](https://home.openweathermap.org/api_keys "My API keys Section")
+1. Copy the **Key** and write it into **Real Weather and Time Events Prefab**
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━
+
 📕 [Documentation](https://wiki.shadow-grove.org/en/real-weather-and-time-events "Documentation") · 💬 [Discord](https://discord.com/invite/hrTXpR3zaA "Discord") · 🌐 [Website](https://shadow-grove.org/ "Website")
+
 ━━━━━━━━━━━━━━━━━━━━━━━━━━
 
 Provided Weather, Location and Time Information
