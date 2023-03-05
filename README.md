@@ -1,14 +1,20 @@
+<p align="center">
+<img src="https://raw.githubusercontent.com/ShadowGroveGames/Real-Weather-and-Time-Events/main/ShadowGroveGames/Real%20Wether%20and%20Time%20Events/Resources/real-weather-and-time-events-banner.png">
+</p>
+
 #### 🏁 How can this asset help me?
 With **Real Weather and Time Events**, you can quickly and easily integrate real weather and time information into your game. This asset uses weather information from the OpenWeatherMap API and can therefore obtain weather and time information from all over the world.
 
 #### Installation
-There are 3 ways to install this plugin:
+There are 3 ways to install this Asset:
 - Import [RealWeatherAndTimeEvents.unitypackage](https://github.com/ShadowGroveGames/Real-Weather-and-Time-Events/releases "RealWeatherAndTimeEvents.unitypackage") via Assets-Import Package
 - Clone or [download](https://github.com/ShadowGroveGames/Real-Weather-and-Time-Events/archive/main.zip "download") this repository and move the Plugins folder to your Unity project's Assets folder
 - Add the following line to Packages/manifest.json:
- - "org.shadow-grove.real-weather-and-time-events": "https://github.com/yasirkula/UnityNativeGallery.git",
+    - `"org.shadow-grove.real-weather-and-time-events": "https://github.com/yasirkula/UnityNativeGallery.git",`
+- Via [OpenUPM](https://openupm.com/) after installing [openupm-cli](https://github.com/openupm/openupm-cli#openupm-cli), run the following command:
+    - `openupm add org.shadow-grove.real-weather-and-time-events`
 
-#### Setup the Asset only 3 steps!
+#### Setup the Asset after installation!
 1. Create a the [OpenWeatherMap Account](https://home.openweathermap.org/users/sign_up "OpenWeatherMap Account")
 1. Open [My API keys Section](https://home.openweathermap.org/api_keys "My API keys Section")
 1. Copy the **Key** and write it into **Real Weather and Time Events Prefab**
